@@ -26,11 +26,11 @@ Will implement in future
 
 LoginScreen
 
-![login](./images/login.png)
+![login](./images/loginscreen.png)
 
 HomeScreen
 
-![home](./images/home.png)
+![home](./images/homescreen.png)
 
 Test result
 
