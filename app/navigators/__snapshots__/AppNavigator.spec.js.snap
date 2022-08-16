@@ -167,7 +167,7 @@ exports[`render correctly 1`] = `
                 }
               }
             >
-              Login me in
+              Login
             </Text>
           </View>
         </View>

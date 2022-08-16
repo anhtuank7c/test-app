@@ -36,7 +36,7 @@ export const LoginScreen = (props: Props) => {
       <Button
         testID="loginButton"
         color="green"
-        text="Login me in"
+        text="Login"
         onPress={() => onSubmit(onLogin)}
       />
     </View>

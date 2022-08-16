@@ -64,7 +64,7 @@ exports[`match snapshot 1`] = `
         }
       }
     >
-      Logout me out
+      Logout
     </Text>
   </View>
 </View>

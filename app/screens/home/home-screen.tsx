@@ -17,12 +17,7 @@ export const HomeScreen = (props: Props) => {
       <Text testID="subtitle" style={styles.subtitle}>
         Test your code, not your patient
       </Text>
-      <Button
-        testID="logoutBtn"
-        color="red"
-        text="Logout me out"
-        onPress={onLogout}
-      />
+      <Button testID="logoutBtn" color="red" text="Logout" onPress={onLogout} />
     </View>
   );
 };
