@@ -30,7 +30,7 @@ LoginScreen
 
 HomeScreen
 
-![home](./images/homescreen.png)
+![home](./images/homescreen1.png)
 
 Test result
 

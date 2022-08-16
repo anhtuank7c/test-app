@@ -30,7 +30,7 @@ exports[`match snapshot 1`] = `
     }
     testID="subtitle"
   >
-    Test your code, not your patient
+    Test your code, not your patience
   </Text>
   <View
     accessible={true}

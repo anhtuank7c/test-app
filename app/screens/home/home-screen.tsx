@@ -15,7 +15,7 @@ export const HomeScreen = (props: Props) => {
         Welcome to demo app
       </Text>
       <Text testID="subtitle" style={styles.subtitle}>
-        Test your code, not your patient
+        Test your code, not your patience
       </Text>
       <Button testID="logoutBtn" color="red" text="Logout" onPress={onLogout} />
     </View>
