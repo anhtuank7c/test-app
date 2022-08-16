@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`match snapshot 1`] = `
+<View
+  style={
+    Object {
+      "padding": 16,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontSize": 27,
+        "fontWeight": "bold",
+        "letterSpacing": 1,
+      }
+    }
+    testID="header"
+  >
+    Welcome to demo app
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontSize": 17,
+        "marginBottom": 26,
+        "marginTop": 10,
+      }
+    }
+    testID="subtitle"
+  >
+    Test your code, not your patient
+  </Text>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "red",
+        "borderRadius": 10,
+        "marginTop": 26,
+        "opacity": 1,
+        "paddingVertical": 16,
+      }
+    }
+    testID="logoutBtn"
+  >
+    <Text
+      style={
+        Object {
+          "alignSelf": "center",
+          "color": "#fff",
+          "fontSize": 17,
+          "letterSpacing": 0.2,
+        }
+      }
+    >
+      Logout me out
+    </Text>
+  </View>
+</View>
+`;
